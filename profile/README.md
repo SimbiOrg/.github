@@ -45,8 +45,9 @@ The project consists of three main components:
 
 - [Web3 Repository](https://github.com/kingsleycj/simbi-bot)
   - Telegram bot implementation
-  - Smart contracts for tokens and NFTs
+  - Smart contracts for tokens, NFTs and Bot management
   - Study session and quiz management
+  - AI integration using Llama 3.3-versatile
 
 ## Deliverable Links
 - [SIMBI Web App](https://simbi-ai.vercel.app/)
