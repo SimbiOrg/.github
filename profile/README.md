@@ -126,6 +126,7 @@ For detailed setup instructions, please refer to each repository's individual RE
 - Mmesoma Anisiuba
 - Destiny Orumade
 - Favour Okpara
+- Ikemefuna Onu
 
 ### Backend Team
 - Efemena Esegbue
@@ -135,6 +136,9 @@ For detailed setup instructions, please refer to each repository's individual RE
 ### Web3 Development
 - Kingsley Nweke
 
+## Deliverable Links
+- [SIMBI Web App](https://simbi-ai.vercel.app/)
+- [SIMBI Web3 Bot](https://t.me/simbi_ai_bot)
 
 ## Important Notice
 Currently, the repositories in SimbiOrg are imported (or forked), we chose not to transfer ownership to the organisation for now to be safe from a risk of a breaking deployed repo. Subsequtently, Ownership will be transfered to the Organization.
